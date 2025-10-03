@@ -1,4 +1,4 @@
-cat <<'EOF' > Historial_comandos_Lopez.txt
+
 git clone git@github.com:lopezanthony7710-spec/TP_AySO.git
 cd TP_AySO
 cat /etc/os-release  
@@ -21,4 +21,4 @@ git push
 cp ~/.bash_history ./Historial_comandos_Lopez.txt 
 git add . 
 git commit -m "ADD: Historial de comandos de Lopez" 
-git push 
+git
